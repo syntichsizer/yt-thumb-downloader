@@ -31,5 +31,5 @@ for video_url in urls:
 	    counter += 1
 	    print("[" + str(counter) + "/" + str(len(urls)) + "] " + video_title + ".jpg downloaded.")
 	    
-input("All thumbnails are downloaded!\nPress any button to finish.")
+input("All thumbnails are downloaded!\Press any key to exit....")
 
